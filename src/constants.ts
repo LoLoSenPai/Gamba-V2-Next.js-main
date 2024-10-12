@@ -115,8 +115,8 @@ export const TOKENLIST = [
     symbol: "USDC",
     image:
       "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-    decimals: 9,
-    baseWager: 0.01e9,
+    decimals: 6,
+    baseWager: 0.01e6,
   },
   // GUAC
   {
